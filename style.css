@@ -1,0 +1,30 @@
+html{
+    background-color: black;
+}
+
+.title{
+    color: rgb(57, 255 ,20);
+    font-weight: bold;
+    font-size: 100px;
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+  }
+
+.img {
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: auto;
+  }
+  
+.max {
+    position: absolute;
+    top: 520px;
+    left: 592px;
+    height: 39%;
+    width: 18%;
+  }
